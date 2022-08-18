@@ -1,0 +1,17 @@
+.idea/
+.vscode/
+node_modules/
+build/
+temp/
+.env
+coverage
+ormconfig.json
+dist
+
+tmp/*
+!tmp/.gitkeep
+tmp/upload/*
+!tem/upload/.gitkeep
+docker-compose.yml
+yarn.lock
+yarn-error.log
